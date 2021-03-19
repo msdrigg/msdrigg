@@ -1,2 +1,2 @@
-- 🌱 I’m currently learning aws services
-- 📫 How to reach me m.scott.driggers@gmail.com
+- Full stack developer with experience in mobile, cloud, and web development
+- Reach me at m.scott.driggers@gmail.com
