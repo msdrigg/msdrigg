@@ -1,2 +1,2 @@
 - Full stack developer with experience in mobile, cloud, and web development
-- Reach me at m.scott.driggers@gmail.com
+- Reach me at scott@msd3.io
